@@ -20,6 +20,7 @@ I’m currently learning JAVA, HTML, CSS, JavaScript and in academic formation o
  
 <div> 
   <a href = "mailto:diego.difm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-felipe-martins-717194124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diego-felipe-martins-717194124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-felipe-martins-717194124/" target="_blank"><img src="https://www.infoescola.com/wp-content/uploads/2011/03/facebook.jpg" target="_blank"></a> 
  
 </div>
