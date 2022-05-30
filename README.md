@@ -14,7 +14,7 @@ I’m currently learning JAVA, HTML, CSS, JavaScript and in academic formation o
   <img align="center" alt="DiegoFM1991-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diegofm1991-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diegofm1991-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Diegofm1991-Java" height="30" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png">
+  <img align="center" alt="Diegofm1991-Java" height="30" width="40" src="https://logospng.org/wp-content/uploads/java.png">
 </div>
   
   ##
