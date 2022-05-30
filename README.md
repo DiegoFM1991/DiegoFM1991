@@ -3,7 +3,7 @@ I'm developer in progress, looking for a better experience and "package" to my p
 I’m currently learning JAVA, HTML, CSS, JavaScript and in academic formation on analysis and systems development...
 
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoFM1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoFM1991&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFM1991&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -21,6 +21,5 @@ I’m currently learning JAVA, HTML, CSS, JavaScript and in academic formation o
 <div> 
   <a href = "mailto:diego.difm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-felipe-martins-717194124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-felipe-martins-717194124/" target="_blank"><img src="https://www.infoescola.com/wp-content/uploads/2011/03/facebook.jpg" target="_blank"></a> 
- 
+   
 </div>
