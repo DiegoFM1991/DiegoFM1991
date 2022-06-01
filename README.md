@@ -8,7 +8,7 @@ I’m currently learning JAVA, HTML, CSS, JavaScript and in academic formation o
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diegofm1991-Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <p> - </p>
+  <div> - </div>
   <img align="center" alt="Diegofm1991-Spring" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Diegofm1991-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Diegofm1991-React" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
